@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mango-Straberries-/static/css/main.5111503a.css",
+    "main.js": "/Mango-Straberries-/static/js/main.13ede7f5.js",
+    "index.html": "/Mango-Straberries-/index.html",
+    "main.5111503a.css.map": "/Mango-Straberries-/static/css/main.5111503a.css.map",
+    "main.13ede7f5.js.map": "/Mango-Straberries-/static/js/main.13ede7f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5111503a.css",
+    "static/js/main.13ede7f5.js"
+  ]
+}
